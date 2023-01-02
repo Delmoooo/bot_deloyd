@@ -47,5 +47,5 @@ client.on("voiceStateUpdate", async (oldState, newState) => {
 });
 
 
-client.login("MTA1Nzk1MDk4NzI1MzQ2OTIxNQ.GfGQ_p.mtkfRXnWXFyiNACnbszDIvSqMIgxIXU0tdgjPs"); 
+client.login(); 
 
